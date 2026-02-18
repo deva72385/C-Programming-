@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    int num1 = 8, num2 = 15;
+
+    int result = (num1 % 2 == 0 && num2 % 2 != 0) || !(num1 == num2);
+
+    printf("Result: %d", result);
+
+    return 0;
+}

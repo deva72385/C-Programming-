@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    int a,b;
+    int sum ;
+    scanf("%d",&a);
+    scanf("%d",&)
+    
+    sum =a+b;
+    if(sum%2==0){
+        printf("YES");
+    }
+    else
+    printf("NO");
+    return 0;
+}
